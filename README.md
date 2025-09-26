@@ -2,7 +2,7 @@
 
 This repository contains a high-level introduction and architecture diagram
 of the **AMS Job Requesting System**, developed and maintained as part of the
-Alpha Magnetic Spectrometer (AMS) experiment at CERN.
+<a href="https://ams02.space/">Alpha Magnetic Spectrometer (AMS) experiment</a> at <a href="https://home.cern/">CERN</a>.
 
 ## Project Background
 
