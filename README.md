@@ -42,10 +42,6 @@ them to CERN local clusters as well as worldwide remote computing centers.
   Eliminated single-thread bottlenecks, improving job generation speed by **4–5x**,  
   effectively supporting large-scale distributed computing.  
 
-- **Distributed Task Scheduling & Data Transfer Optimization**  
-  Integrated with the **LSF scheduling framework** to achieve parallel job submission and allocation.  
-  Optimized cross-site transfer strategies to ensure efficient and stable execution of large-scale simulation workloads.  
-
 ---
 
 ## System Architecture
